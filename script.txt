@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.5
 // @description  sigo?
-// @author       Adcoss95 mod
+// @author       Adcoss95 mod by Syzygy_e
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         http://2.bp.blogspot.com/_DGYSeoXVZm8/THns4LSaKFI/AAAAAAAAEvc/m5v-9L_ddtI/s400/A+-+LETRA+%C3%91+-+1.jpg
 // @grant        none
